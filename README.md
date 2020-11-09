@@ -7,7 +7,7 @@ Final Project
 
 **Preparing Data before moving to alogarithms**
 
-  1- Data Slection
+  1- Data selection
   
   2- Data processing
   
@@ -16,6 +16,8 @@ Final Project
 **Which model did you choose and why?**
 
 - Training and testing datasets
+- Decision Trees
+- Support Vector Regression
 - Cluster data using the K-means algorithm.
 - K-nearest
 - Testing Accuracy
