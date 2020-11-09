@@ -7,9 +7,11 @@ Final Project
 
 **Preparing Data before moving to alogarithms**
 
-1- Data Slection
-2- Data processing
-3- Data transofrmation
+  1- Data Slection
+  
+  2- Data processing
+  
+  3- Data transofrmation
 
 **Which model did you choose and why?**
 
